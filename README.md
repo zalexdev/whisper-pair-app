@@ -13,7 +13,6 @@
   <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-2.0-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin"></a>
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-36911"><img src="https://img.shields.io/badge/CVE-2025--36911-red" alt="CVE"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue" alt="License"></a>
-  <a href="https://whisperpair.eu"><img src="https://img.shields.io/badge/Website-whisperpair.eu-cyan" alt="Website"></a>
 </p>
 
 <p align="center">
