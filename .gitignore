@@ -13,3 +13,11 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Build outputs
+*.apk
+*.zip
+WhisperPair-Magisk.zip
+
+# Platform tools (user should download)
+platform-tools/
